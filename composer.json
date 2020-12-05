@@ -1,0 +1,12 @@
+{
+  "name": "elivelton/cadastro",
+  "authors": [
+    {
+      "name": "Elivelton",
+      "email": "eliveltongsoficial@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "2.0"
+  }
+}
