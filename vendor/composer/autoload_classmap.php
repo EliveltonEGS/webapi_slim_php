@@ -9,5 +9,6 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'src\\controller\\CategoriaController' => $baseDir . '/src/controller/CategoriaController.php',
     'src\\db\\Connection' => $baseDir . '/src/db/Connection.php',
+    'src\\entities\\Categoria' => $baseDir . '/src/entities/Categoria.php',
     'src\\model\\CategoriaModel' => $baseDir . '/src/model/CategoriaModel.php',
 );

@@ -34,6 +34,7 @@ class ComposerStaticInite2173b0aca6a9e0cebdb5b1ed4441692
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'src\\controller\\CategoriaController' => __DIR__ . '/../..' . '/src/controller/CategoriaController.php',
         'src\\db\\Connection' => __DIR__ . '/../..' . '/src/db/Connection.php',
+        'src\\entities\\Categoria' => __DIR__ . '/../..' . '/src/entities/Categoria.php',
         'src\\model\\CategoriaModel' => __DIR__ . '/../..' . '/src/model/CategoriaModel.php',
     );
 
