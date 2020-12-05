@@ -14,24 +14,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'e82e0a3dcb71bd7c3ed78def27e2c66524068d78',
     'name' => 'elivelton/cadastro',
   ),
   'versions' => 
   array (
     'elivelton/cadastro' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'e82e0a3dcb71bd7c3ed78def27e2c66524068d78',
     ),
     'slim/slim' => 
     array (

@@ -1,8 +1,12 @@
 <?php
 
+namespace src\db;
+
+use PDO;
+
 class Connection
 {
-    public function getConnetion()
+    public function getConnection()
     {
         return new PDO(
             'mysql:host=localhost;dbname=SlimProdutos',
